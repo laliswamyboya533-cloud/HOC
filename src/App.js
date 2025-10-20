@@ -1,5 +1,6 @@
 // Hoc
 //Higher order Component is a function that takes a component and return a new compoenent
+
 // Example loader with list compoenent
 
 import React, { useState, useEffect } from 'react';
